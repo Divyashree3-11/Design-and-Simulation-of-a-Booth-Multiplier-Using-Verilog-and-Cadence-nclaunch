@@ -165,12 +165,11 @@ endmodule
 
 ## Nclaunch Work Library Window
 
-![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
+![WhatsApp Image 2025-10-31 at 08 54 20_9051eac0](https://github.com/user-attachments/assets/95afd43a-86c1-4a25-991a-726b4ed772cd)
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
-
+![WhatsApp Image 2025-10-31 at 08 58 38_7c86e8d3](https://github.com/user-attachments/assets/d3110150-1722-4596-8e4c-70f6ae78bc9f)
 
 ## Results
 Successfully designed and simulated a Booth Multiplier in Verilog.
